@@ -6,7 +6,9 @@ public class DEF {
 		
 		System.out.println("Namaste");
 		System.out.println("Namaste");
+		System.out.println("Hari Om");
 		System.out.println("Namaste");
+		System.out.println("Hari Om");
 		System.out.println("Jai Shree Ganesh");
 		System.out.println("Jai Mata di");
 		System.out.println("Hari Om");
