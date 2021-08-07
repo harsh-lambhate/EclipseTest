@@ -25,7 +25,5 @@ public class ABC {
 		ABC abc2=new ABC(2,4);
 		
 	}
-	
-	
 
 }
