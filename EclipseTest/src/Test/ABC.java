@@ -8,13 +8,19 @@ public class ABC {
 	}
 	ABC(int a)
 	{
-		System.out.println("This is parametric constructor");
+		System.out.println("This is parametric constructor a" );
+	}
+	
+	ABC(int a,long b)
+	{
+		System.out.println("This is parametric constructor a & b");
 	}
 	
 	public static void main(String[] args) {
 		
 		ABC abc=new ABC();
 		ABC abc1=new ABC(4);
+		ABC abc2=new ABC(2,4);
 		
 	}
 	
